@@ -6,4 +6,4 @@ Flutter enables you to make instant changes in the app which is a god-sent when 
 
 This repository contains all the projects which I made while Learning **Flutter Development** during my **Six Months** Hustling Journey. This will help me in upskilling myself and learn more about the technology.
 
-**Thank you for visiting my project repository, I really appreciate it 💖. If you like my work please consider to give this repo a star 😄 ✨
+**Thank you for visiting my project repository, I really appreciate it 💖 .  If you like my work please consider to give this repo a star 😄 ✨**
